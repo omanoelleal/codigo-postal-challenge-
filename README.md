@@ -9,7 +9,7 @@ Gostaríamos de propor um exercício prático que envolva o enriquecimento de da
 ## 🧩Desafio
 1) 📂Dados de Entrada:
    
-   Um ficheiro CSV será fornecido contendo uma lista de códigos postais (CP7) Podes consulta o mesmo aqui.
+   Um ficheiro CSV será fornecido contendo uma lista de códigos postais (CP7) Podes consultar o mesmo [aqui](https://github.com/omanoelleal/codigo-postal-challenge-/blob/main/data/cp7_data.csv).
 
 3) 🎯Tarefa:
    
